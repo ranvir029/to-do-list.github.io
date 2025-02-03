@@ -153,6 +153,9 @@ ul li span:hover{
     .todoapp{
       width: 79vw;
     }
+     .row  button{
+        padding: 1rem 1.5rem;
+   }
  }
 
  
